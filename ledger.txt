@@ -1,0 +1,22 @@
+A123|45|Oaks Hotels|2023-03-30|International Travel|50000|2500
+A123|456|QualityRep|2023-06-12|Cash Deposit|45000|2250
+A123|56|Services|2023-06-21|Cash Deposit|57800|2890
+A123|25|Taj Residential|2023-06-22|International Travel|50000|2500
+A123|2345|BNM Fees|2023-06-22|Donations|58000|2900
+A123|7657|BNM|2023-06-23|Donations|5678|283.9
+B123|98|BharatPe|2023-03-14|Donations|1000000|50000
+B123|47|Druthi|2023-06-05|Donations|54000|2700
+B123|34|Pragathi|2023-06-13|International Travel|54786|2740
+B123|12|Treehouse Corp.|2023-06-17|Gold Purchase|50000|2500
+B123|987|Addidas|2023-06-19|Cash Deposit|4500|225
+C123|23|Silveroaks|2023-01-18|Cash Deposit|800000|40000
+C123|12|Divya|2023-03-24|Tax Deducted at Source|476|24
+C123|1|Divya|2023-05-15|Cash Deposit|45000|2250
+C123|459|chandana|2023-05-23|International Travel|5600|280
+C123|8869|BNMCafe|2023-06-01|International Travel|560|28
+C123|1234|BNMIT|2023-06-19|Cash Deposit|5600|280
+C123|453|College|2023-06-20|Cash Deposit|45000|2250
+D123|237|sanj|2023-05-10|Gold Purchase|80000|4000
+E123|24|UserOps|2023-03-21|International Travel|45000|2250
+E123|18|Lakshmi|2023-05-16|Donations|1500000|75000
+E123|12345|AdmissionBNM|2023-06-25|Tax Deducted at Source|56000|2800
